@@ -22,6 +22,9 @@ My approach combines product strategy, hands-on design craft, cross-functional l
 
 ## Experience
 
+### Netlfix · Senior Product Designer · 2026–Present
+Creating exceptional member experiences across all enabled platforms.
+
 ### Amazon Prime Video · Senior UX Designer · 2022–2026
 Designed streaming experiences across mobile, living room, sports, and emerging content. Contributed to AI-powered relevance initiatives, next-generation mobile strategy, subscription engagement, and augmented content. Worked with multidisciplinary teams to turn complex experiences into accessible, high-utility customer journeys.
 
