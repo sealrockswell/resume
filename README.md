@@ -31,10 +31,10 @@ Designed streaming experiences across mobile, living room, sports, and emerging 
 ### LinkedIn · Staff Product Designer · 2021–2022
 Designed foundational enterprise subscription and billing experiences for a global self-service platform, supporting the needs of customers across markets and organizations.
 
-### First American · UX Leadership · 2017–2021
+### First American · Product Design Manager · 2017–2021
 Built and scaled a multidisciplinary team of eight designers and four researchers, establishing UX practices across complex financial and enterprise experiences.
 
-### Panasonic Avionics · Design · 2011–2017
+### Panasonic Avionics · Senior UX Designer · 2011–2017
 Designed in-flight entertainment and connected experiences for major airline partners, spanning multilingual and global product requirements.
 
 ## Focus areas
